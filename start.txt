@@ -1,6 +1,4 @@
 Test Git Quick Start demo
 
-
-
 Chaging this file for the first time in feature-1 branch
 Chnaging file here in feature branch in atom editor
