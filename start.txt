@@ -1,3 +1,4 @@
 Test Git Quick Start demo
 
-changes done in master branch
+Chaging this file for the first time in feature-1 branch
+Chnaging file here in feature branch in atom editor
